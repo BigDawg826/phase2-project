@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Christine",
+      "year": 1983,
+      "img": "http://imagesa.btol.com/ContentCafe/Jacket.aspx?UserID=ContentCafeClient&Password=Client&Return=T&Type=L&Value=9781501144189"
+    },
+    {
+      "id": 2,
+      "title": "End of Watch",
+      "year": 2017,
+      "img": "http://imagesa.btol.com/ContentCafe/Jacket.aspx?UserID=ContentCafeClient&Password=Client&Return=T&Type=L&Value=9781501129742"
+    },
+    {
+      "id": 3,
+      "title": "Carrie",
+      "year": 1984,
+      "img": "http://imagesa.btol.com/ContentCafe/Jacket.aspx?UserID=ContentCafeClient&Password=Client&Return=T&Type=L&Value=9780307743664"
+    },
+    {
+      "id": 4,
+      "title": "The Bazaar of Bad Dreams",
+      "year": 2015,
+      "img": "http://imagesa.btol.com/ContentCafe/Jacket.aspx?UserID=ContentCafeClient&Password=Client&Return=T&Type=L&Value=9781501111679"
+    },
+    {
+      "id": 5,
+      "title": "11/22/63",
+      "year": 2011,
+      "img": "http://imagesa.btol.com/ContentCafe/Jacket.aspx?UserID=ContentCafeClient&Password=Client&Return=T&Type=L&Value=9781410440471"
+    },
+    {
+      "id": 6,
+      "title": "Under the Dome",
+      "year": 2010,
+      "img": "http://imagesa.btol.com/ContentCafe/Jacket.aspx?UserID=ContentCafeClient&Password=Client&Return=T&Type=L&Value=9781439149034"
+    }
+  ]
+}
