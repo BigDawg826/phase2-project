@@ -41,15 +41,17 @@ function handleSubmit(e){
 
   return (
     <div>
+        <h1>What should I read next?</h1>
         <form onSubmit={handleSubmit}>
-            <label htmlFor='title'>Book Title</label>
+            <label htmlFor='title'>Book Title </label>
             <input value ={title} onChange={handleTitleChange} type = "text" id = "title"/>
-            <label htmlFor='year'>Year Published</label>
+            <label htmlFor='year'> Year Published </label>
             <input value ={year} onChange={handleYearChange} type = "text" id = "year"/>
-            <label htmlFor='img'>Link to cover photo</label>
+            <label htmlFor='img'> Link to cover photo </label>
             <input value ={img} onChange={handleImgChange} type = "text" id = "img"/>
             <button type = "submit">Submit</button>
         </form>
+        <br></br>
         <Link to="/">Return to Main Page</Link>
     </div>
   )
