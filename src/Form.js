@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import {useHistory} from 'react-router-dom'
+import {useHistory, Link} from 'react-router-dom'
 
 
 function Form({addBook}) {
@@ -50,6 +50,7 @@ function handleSubmit(e){
             <input value ={img} onChange={handleImgChange} type = "text" id = "img"/>
             <button type = "submit">Submit</button>
         </form>
+        <Link to="/">Return to Main Page</Link>
     </div>
   )
 }

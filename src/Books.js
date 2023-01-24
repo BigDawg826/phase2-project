@@ -6,7 +6,7 @@ function Books({books}) {
     return (
         <>
         <img src={data.img} width="200px"/>
-        <h3>{data.year}</h3>
+        <p>Year Published - {data.year}</p>
         </>
     )
   })
